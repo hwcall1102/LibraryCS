@@ -1,0 +1,20 @@
+1984,George Orwell,True
+To Kill a Mockingbird,Harper Lee,True
+The Great Gatsby,F. Scott Fitzgerald,False
+Pride and Prejudice,Jane Austen,True
+The Catcher in the Rye,J.D. Salinger,False
+Moby-Dick,Herman Melville,True
+Brave New World,Aldous Huxley,True
+The Hobbit,J.R.R. Tolkien,True
+Fahrenheit 451,Ray Bradbury,False
+Jane Eyre,Charlotte Brontë,True
+Crime and Punishment,Fyodor Dostoevsky,True
+The Brothers Karamazov,Fyodor Dostoevsky,False
+Wuthering Heights,Emily Brontë,True
+Les Misérables,Victor Hugo,True
+Dune,Frank Herbert,True
+Animal Farm,George Orwell,True
+The Odyssey,Homer,False
+War and Peace,Leo Tolstoy,True
+The Lord of the Rings,J.R.R. Tolkien,True
+A Tale of Two Cities,Charles Dickens,False

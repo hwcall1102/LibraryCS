@@ -1,0 +1,15 @@
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.AssemblyInfoInputs.cache
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.AssemblyInfo.cs
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.csproj.CoreCompileInputs.cache
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.sourcelink.json
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/bin/Debug/net8.0/LibraryCS
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/bin/Debug/net8.0/LibraryCS.deps.json
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/bin/Debug/net8.0/LibraryCS.runtimeconfig.json
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/bin/Debug/net8.0/LibraryCS.dll
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/bin/Debug/net8.0/LibraryCS.pdb
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.dll
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/refint/LibraryCS.dll
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.pdb
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/LibraryCS.genruntimeconfig.cache
+/Users/Hayden/Desktop/byu-idaho/Spring 2025/CSE310/LibraryCS/obj/Debug/net8.0/ref/LibraryCS.dll
